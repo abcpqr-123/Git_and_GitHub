@@ -20,7 +20,7 @@
 
 // in the git bash, come to a folder, which u want,
 
-// check ==> git init 
+// check ==> git status 
 // and see weather git was intialized or not. 
 
 // once its clear that its not a git repository, 
